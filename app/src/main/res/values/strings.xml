@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">DicodingSubmission-1</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="user_name">Username Pengguna</string>
+    <string name="user_picture">Gambar User</string>
+    <string name="repository_amount">repository amount</string>
+    <string name="project_amount">Project Amount</string>
+    <string name="follower_amount">follower amount</string>
+    <string name="user_profile_image">User Profile Image</string>
+    <string name="repo_amount">28</string>
+    <string name="project_amoutn">22</string>
+    <string name="follow_amount">45k</string>
+    <string name="location_icon">Location Icon</string>
+    <string name="location">Stalingrad, Russia</string>
+    <string name="company_icon">company_icon</string>
+    <string name="company">Stark Industries</string>
+    <string name="description_title">Deskripksi</string>
+    <string name="description">Deskripsi disini</string>
+    <string name="github_pages">Github Pages</string>
+    <string name="project_count">23</string>
+    <string name="test_description">Wanda Maximoff, also known as the Scarlet Witch, is a Romani Transian sorceress and twin sister of the speedster Quicksilver. Once believed to have been mutant children of Magneto, the twins are in truth orphans enhanced by the High Evolutionary at Mount Wundagore.</string>
+    <string name="arrow_icon">Arrow Icon</string>
+    <string name="star_icon">Star Icon</string>
+    <string name="github_logo">Github Logo</string>
+
+    <string-array name="data_user_name">
+        <item>4amshin</item>
+        <item>ironman</item>
+        <item>cpamerica</item>
+        <item>thundergod</item>
+        <item>mischiefgod</item>
+        <item>thehulk</item>
+        <item>hawkeye</item>
+        <item>crimsonwitch</item>
+        <item>blackwidow</item>
+        <item>blackmamba</item>
+    </string-array>
+
+    <string-array name="data_name">
+        <item>Rely Arfadillah</item>
+        <item>Tony Stark</item>
+        <item>Steve Roger</item>
+        <item>Thor Odison</item>
+        <item>Loki Odinson</item>
+        <item>Bruce Banner</item>
+        <item>Clint Barton</item>
+        <item>Wanda Maximoff</item>
+        <item>Natasha Romanoff</item>
+        <item>Nick Fury</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/rely</item>
+        <item>@drawable/tony</item>
+        <item>@drawable/steve</item>
+        <item>@drawable/thor</item>
+        <item>@drawable/loki</item>
+        <item>@drawable/banner</item>
+        <item>@drawable/clint</item>
+        <item>@drawable/wanda</item>
+        <item>@drawable/natasha</item>
+        <item>@drawable/nick</item>
+    </integer-array>
+
+    <integer-array name="data_photo_detail">
+        <item>@drawable/rely_detail</item>
+        <item>@drawable/tony_detail</item>
+        <item>@drawable/steve_detail</item>
+        <item>@drawable/thor_detail</item>
+        <item>@drawable/loki_detail</item>
+        <item>@drawable/banner_detail</item>
+        <item>@drawable/clint_detail</item>
+        <item>@drawable/wanda_detail</item>
+        <item>@drawable/natasha_detail</item>
+        <item>@drawable/nick_detail</item>
+    </integer-array>
+
+    <string-array name="data_repo">
+        <item>23</item>
+        <item>41</item>
+        <item>12</item>
+        <item>61</item>
+        <item>11</item>
+        <item>71</item>
+        <item>37</item>
+        <item>59</item>
+        <item>13</item>
+        <item>22</item>
+    </string-array>
+
+    <string-array name="data_project">
+        <item>11</item>
+        <item>27</item>
+        <item>15</item>
+        <item>24</item>
+        <item>22</item>
+        <item>28</item>
+        <item>25</item>
+        <item>12</item>
+        <item>17</item>
+        <item>19</item>
+    </string-array>
+
+    <string-array name="data_followers">
+        <item>45k</item>
+        <item>12k</item>
+        <item>51k</item>
+        <item>39k</item>
+        <item>11k</item>
+        <item>25k</item>
+        <item>34k</item>
+        <item>60k</item>
+        <item>19k</item>
+        <item>99k</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Hello there, im Rely and im a web and mobile full stack developer. Currently studying at one of the University at indonesia. And this is my Submission-1 for Dicoding Academy in Android Class</item>
+        <item>Anthony Edward "Tony" Stark was a billionaire industrialist, a founding member of the Avengers, and the former CEO of Stark Industries. A brash but brilliant inventor, Stark was self-described as a genius, billionaire, playboy, and philanthropist.</item>
+        <item>Rogers is depicted as a World War II-era super soldier who was given a serum that provided him with superhuman abilities including enhanced durability, strength, and athleticism.</item>
+        <item>Thor is a very tall and well-built Asgardian male; he has very large biceps and long, muscular legs. Fair-skinned and blue-eyed, he has golden blond hair that grows slightly during the events of the Marvel Cinematic Universe.</item>
+        <item>In Norse mythology Loki is a cunning trickster who has the ability to change his shape and sex. Although his father is the giant Fárbauti, he is included among the Aesir (a tribe of gods). Loki is represented as the companion of the great gods Odin and Thor.</item>
+        <item>Bruce Banner, Ph. D. a.k.a. the Hulk is an American theoretical physicist, famed for his work into the studies of nuclear physics and gamma radiation. He was recruited by General Thaddeus "Thunderbolt" Ross and the US Army to develop the first Gamma Bomb.</item>
+        <item>A master marksman and longtime friend of Black Widow, Clint Barton serves as the Avengers amazing archer. An expert marksman and fighter, Clint Barton puts his talents to good use by working for S.H.I.E.L.D. as a special agent.</item>
+        <item>Wanda Maximoff, also known as the Scarlet Witch, is a Romani Transian sorceress and twin sister of the speedster Quicksilver. Once believed to have been mutant children of Magneto, the twins are in truth orphans enhanced by the High Evolutionary at Mount Wundagore.</item>
+        <item>Black Widow is a deadly one-woman fighting force. An expert in many forms of martial arts, she is also a skilled gymnast and possesses superhuman strength, speed, agility, and endurance.</item>
+        <item>Fury is a seasoned unarmed and armed combat expert, was a heavyweight boxer in the army (during World War II), and holds a black belt in Tae Kwon Do and a brown belt in Jiu Jitsu. He has further honed his unarmed combat skills sparring with Captain America.</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>Makassar, Indonesia</item>
+        <item>California, USA</item>
+        <item>New York, USA</item>
+        <item>Tonsberg, Norway</item>
+        <item>Tonsberg, Norway</item>
+        <item>Kolkata, India</item>
+        <item>Waverly, Iowa</item>
+        <item>Novi, Sokovia</item>
+        <item>Stalingrad, Russia</item>
+        <item>Alabama, USA</item>
+    </string-array>
+
+    <string-array name="data_company">
+        <item>Dicoding Tech</item>
+        <item>Stark Industries</item>
+        <item>Avenger Tech</item>
+        <item>Asgard Inc.</item>
+        <item>Jotunheim Tech</item>
+        <item>Virginia Univ</item>
+        <item>S.H.I.E.L.D</item>
+        <item>Avenger Tech</item>
+        <item>S.H.I.E.L.D</item>
+        <item>S.H.I.E.L.D</item>
+    </string-array>
+
+
+</resources>

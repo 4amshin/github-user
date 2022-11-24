@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_github">#CEA5FB</color>
+    <color name="purple_medium">#E8DCF9</color>
+    <color name="orange_github">#FA7970</color>
+    <color name="orange_medium">#F9D5D4</color>
+    <color name="green_github">#7CE38B</color>
+    <color name="green_medium">#B3F4BB</color>
+    <color name="blue_dark">#0D1117</color>
+    <color name="grey_dark">#161B22</color>
+    <color name="grey_medium">#21262D</color>
+    <color name="grey_light">#B8BCBF</color>
+    <color name="grey_superLight">#ECF2F8</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
